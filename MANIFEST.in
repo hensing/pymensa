@@ -1,0 +1,2 @@
+include pymensa/*.py
+include pymensa/mensa.conf
